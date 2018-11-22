@@ -2,6 +2,11 @@
 
 #### Pendientes
 
+Entrega
+
+#### En Progreso
+Documentacion MDs	
+#### Completas
 Documentacion sobre TPaga y usos  
 Pruebas de TPaga  
 Definicion de Problema  
@@ -11,9 +16,6 @@ Consumo de Servicios TPaga
 Integracion de Servicios  
 Carpinteria (HTML5, CSS y demas)  
 Creacion de Documentacion correspondinete para entrega  
-
-#### En Progreso
-
 Documentacion sobre Servicios Web
 	Resto
 	MVC
@@ -24,7 +26,3 @@ Creacion de Servicios Web MVC
 Desarrollo de Servicios Rest Comercio  
 Creacion de Base de Datos Comercio (Relacional)  
 Creacion de Repos  
-	
-#### Completas
-
-
